@@ -3,4 +3,5 @@ Agenda Mata Kuliah SIM :
 2. Menyimpan dan Melakukan kolaborasi menggunakan Git dan Github
 3. Membuat Web App dengan R Shiny
 4. Presentasi 
-5. Mengerjakan ujian 
+5. Mengerjakan ujian
+   
